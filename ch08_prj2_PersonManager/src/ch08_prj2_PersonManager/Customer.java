@@ -19,3 +19,4 @@ public class Customer extends Person{
 		return name + "\n" + "Customer Number: " + customerNumber;
 	}
 }
+
