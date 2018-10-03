@@ -19,10 +19,3 @@ private String ssn;
     }
 
 }
-
-
-
-
-//public Employee(String first, String last, String ssn)
-//public String getSsn()
-//public void setSsn(String ssn)
